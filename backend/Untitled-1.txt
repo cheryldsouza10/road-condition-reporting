@@ -1,0 +1,8 @@
+MONGO_URI= mongodb+srv://cheryldsouza10:FucGInHS9w5RX8QG@cluster0.e9usvy7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+BACKEND_URL= http://localhost:3000
+JWT_SECRET= rpIiUO166b9zgWVVN+2WSxM9A1MBK3qnP9P2+5KPnm8.
+PORT=3000
+WS_PORT=3002
+
+
+BACKEND

@@ -1,0 +1,30 @@
+{
+  "name": "road-condition-reporting",
+  "version": "1.0.0",
+  "description": "AI Customer Support",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheryldsouza10/road-condition-reporting.git"
+  },
+  "author": "Cheryl Dsouza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheryldsouza10/road-condition-reporting/issues"
+  },
+  "homepage": "https://github.com/cheryldsouza10/road-condition-reporting#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.0",
+    "node-fetch": "^2.7.0",
+    "ws": "^8.18.2"
+  }
+}
